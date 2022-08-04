@@ -1,0 +1,7 @@
+{
+    "parent": "ornament/cap0",
+    "textures": {
+        "0": "ornament/cap2",
+        "particle": "ornament/cap2"
+    }
+}

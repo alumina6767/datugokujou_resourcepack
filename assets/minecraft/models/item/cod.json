@@ -1,0 +1,25 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cod"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 90, -60 ],
+            "translation": [ -7, -4, -7],
+            "scale":[ 0.8, 0.8, 0.8]
+        }
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "ornament/huku1"},
+        {"predicate": {"custom_model_data": 2},"model": "ornament/huku2"},
+        {"predicate": {"custom_model_data": 3},"model": "ornament/huku3"},
+        {"predicate": {"custom_model_data": 4},"model": "ornament/huku4"},
+        {"predicate": {"custom_model_data": 10},"model": "ornament/register1"},
+        {"predicate": {"custom_model_data": 11},"model": "ornament/register2"},
+        {"predicate": {"custom_model_data": 20},"model": "ornament/cap1"},
+        {"predicate": {"custom_model_data": 21},"model": "ornament/cap2"},
+        {"predicate": {"custom_model_data": 22},"model": "ornament/cap3"},
+        {"predicate": {"custom_model_data": 23},"model": "ornament/cap4"}
+    ]
+}

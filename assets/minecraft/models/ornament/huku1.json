@@ -1,0 +1,7 @@
+{
+    "parent": "ornament/huku0",
+    "textures": {
+        "0": "ornament/huku1",
+        "particle": "ornament/huku1"
+    }
+}
