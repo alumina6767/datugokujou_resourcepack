@@ -1,0 +1,7 @@
+{
+    "parent": "ornament/shopping_cart0",
+    "textures": {
+        "0": "ornament/shopping_cart2",
+        "particle": "ornament/shopping_cart2"
+    }
+}

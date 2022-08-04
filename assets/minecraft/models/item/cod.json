@@ -20,6 +20,11 @@
         {"predicate": {"custom_model_data": 20},"model": "ornament/cap1"},
         {"predicate": {"custom_model_data": 21},"model": "ornament/cap2"},
         {"predicate": {"custom_model_data": 22},"model": "ornament/cap3"},
-        {"predicate": {"custom_model_data": 23},"model": "ornament/cap4"}
+        {"predicate": {"custom_model_data": 23},"model": "ornament/cap4"},
+        {"predicate": {"custom_model_data": 30},"model": "ornament/basket1"},
+        {"predicate": {"custom_model_data": 31},"model": "ornament/basket2"},
+        {"predicate": {"custom_model_data": 32},"model": "ornament/basket3"},
+        {"predicate": {"custom_model_data": 40},"model": "ornament/shopping_cart1"},
+        {"predicate": {"custom_model_data": 41},"model": "ornament/shopping_cart2"}
     ]
 }
