@@ -25,6 +25,14 @@
         {"predicate": {"custom_model_data": 31},"model": "ornament/basket2"},
         {"predicate": {"custom_model_data": 32},"model": "ornament/basket3"},
         {"predicate": {"custom_model_data": 40},"model": "ornament/shopping_cart1"},
-        {"predicate": {"custom_model_data": 41},"model": "ornament/shopping_cart2"}
+        {"predicate": {"custom_model_data": 41},"model": "ornament/shopping_cart2"},
+        {"predicate": {"custom_model_data": 50},"model": "ornament/smart_phone1"},
+        {"predicate": {"custom_model_data": 51},"model": "ornament/smart_phone2"},
+        {"predicate": {"custom_model_data": 52},"model": "ornament/smart_phone3"},
+        {"predicate": {"custom_model_data": 53},"model": "ornament/smart_phone4"},
+        {"predicate": {"custom_model_data": 54},"model": "ornament/smart_phone5"},
+        {"predicate": {"custom_model_data": 55},"model": "ornament/smart_phone6"},
+        {"predicate": {"custom_model_data": 56},"model": "ornament/smart_phone7"}
+
     ]
 }
