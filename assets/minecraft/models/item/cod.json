@@ -38,6 +38,7 @@
         {"predicate": {"custom_model_data": 62},"model": "ornament/drink3"},
         {"predicate": {"custom_model_data": 70},"model": "ornament/torso1"},
         {"predicate": {"custom_model_data": 71},"model": "ornament/torso2"},
-        {"predicate": {"custom_model_data": 72},"model": "ornament/torso3"}
+        {"predicate": {"custom_model_data": 72},"model": "ornament/torso3"},
+        {"predicate": {"custom_model_data": 80},"model": "ornament/mannequin1"}
     ]
 }
