@@ -1,0 +1,7 @@
+{
+    "parent": "ornament/drink1",
+    "textures": {
+        "0": "ornament/drink2",
+        "particle": "ornament/drink2"
+    }
+}
