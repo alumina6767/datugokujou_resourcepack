@@ -1,0 +1,7 @@
+{
+    "parent": "ornament/torso0",
+    "textures": {
+        "0": "ornament/torso2",
+        "particle": "ornament/torso2"
+    }
+}

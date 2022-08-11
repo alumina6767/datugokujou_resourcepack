@@ -32,7 +32,12 @@
         {"predicate": {"custom_model_data": 53},"model": "ornament/smart_phone4"},
         {"predicate": {"custom_model_data": 54},"model": "ornament/smart_phone5"},
         {"predicate": {"custom_model_data": 55},"model": "ornament/smart_phone6"},
-        {"predicate": {"custom_model_data": 56},"model": "ornament/smart_phone7"}
-
+        {"predicate": {"custom_model_data": 56},"model": "ornament/smart_phone7"},
+        {"predicate": {"custom_model_data": 60},"model": "ornament/drink1"},
+        {"predicate": {"custom_model_data": 61},"model": "ornament/drink2"},
+        {"predicate": {"custom_model_data": 62},"model": "ornament/drink3"},
+        {"predicate": {"custom_model_data": 70},"model": "ornament/torso1"},
+        {"predicate": {"custom_model_data": 71},"model": "ornament/torso2"},
+        {"predicate": {"custom_model_data": 72},"model": "ornament/torso3"}
     ]
 }
